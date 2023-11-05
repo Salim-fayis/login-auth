@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Salim-fayis.github.io/login-auth/static/css/main.94ec19c6.css",
+    "main.js": "/Salim-fayis.github.io/login-auth/static/js/main.cd959fcc.js",
+    "static/js/787.b487d76c.chunk.js": "/Salim-fayis.github.io/login-auth/static/js/787.b487d76c.chunk.js",
+    "index.html": "/Salim-fayis.github.io/login-auth/index.html",
+    "main.94ec19c6.css.map": "/Salim-fayis.github.io/login-auth/static/css/main.94ec19c6.css.map",
+    "main.cd959fcc.js.map": "/Salim-fayis.github.io/login-auth/static/js/main.cd959fcc.js.map",
+    "787.b487d76c.chunk.js.map": "/Salim-fayis.github.io/login-auth/static/js/787.b487d76c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ec19c6.css",
+    "static/js/main.cd959fcc.js"
+  ]
+}
